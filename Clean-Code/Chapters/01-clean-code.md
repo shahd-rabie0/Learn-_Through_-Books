@@ -175,7 +175,7 @@ Over time:
 - Bugs become harder to find and fix.
 - Developers spend more time understanding the existing code.
 - Every modification becomes more risky.
-- ![Figure 1-1: Productivity vs. Time](Screenshot%202026-10-30%20154122.png)
+- ![Figure 1-1: Productivity vs. Time](figure-1-1-productivity-vs-time.png)
 
 *Figure 1-1: Productivity vs. Time*
 
